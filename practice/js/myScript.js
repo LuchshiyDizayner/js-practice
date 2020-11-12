@@ -88,3 +88,9 @@ $("html").mousemove(function (event) {
     });
 });*/
 
+
+
+/*
+dog.bark = function () {
+    console.log("Гав-гав! Меня зовут " + this.name + "!");
+};*/
